@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InteractionWithOtherApps</string>
+    <string name="chooser_title">連携アプリを選択してください</string>
+</resources>
